@@ -1,0 +1,16 @@
+BLT
+Bacon,4
+Lettuce,2
+Club
+Turkey,2
+Ham,2
+Italian
+Ham,4
+Salami,2
+Memphian
+Club,4
+Roast Beef,2
+Pepper Jack Griller
+Turkey,4
+Bacon,1
+EOF

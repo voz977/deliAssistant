@@ -1,0 +1,16 @@
+SW Salad
+Chicken,4
+Cheese Mix,2
+Chef Salad
+Max Mix,2
+Cheese Mix,2
+Taco Salad
+Chili,2
+Cheese Mix,2
+Garden Salad
+Toms,2
+Cheese Mix,2
+Italian Salad
+Ham,2
+Salami,1
+EOF

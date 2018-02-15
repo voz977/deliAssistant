@@ -1,0 +1,15 @@
+BLT,5
+Club,10
+Italian,15
+Memphian,20
+Pepper Jack Griller,25
+Chicken Spud,100
+Spud Max,50
+Bacon Spud,20
+Angus Spud,150
+Spud Ole,30
+SW Salad,25
+Chef Salad,30
+Taco Salad,50
+Garden Salad,26
+Italian Salad,30

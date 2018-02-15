@@ -1,0 +1,16 @@
+Chicken Spud
+Chicken,4
+Cheese Mix,2
+Spud Max
+Max Mix,2
+Cheese Mix,2
+Spud Ole
+Chili,2
+Cheese Mix,2
+Bacon Spud
+Bacon,2
+Cheese Mix,2
+Angus Spud
+Roast Beef,4
+Cheese Mix,2
+EOF
