@@ -50,7 +50,6 @@ public class homeScreen extends Application {
         viewDataButton.setOnAction(e -> {
             viewData.display();
             window.close();
-
         });
 
         calculateDataButton.setOnAction(e -> {
