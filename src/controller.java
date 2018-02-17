@@ -142,6 +142,15 @@ public class controller {
             System.out.println("Error");
         }
 
+        /*
+         * Null check to see if user has loaded selected type of data yet
+         * Returns ArrayList of error message to GUI if it is empty
+         */
+        if (calcList.isEmpty()) {
+            String error = "Data of that type is not loaded yet";
+            finalList.add(error);
+            return finalList;
+        }
 
         // Iterates through the ./sales.txt file until EOF to gather how many of each item were sold.
         while (scan.hasNextLine()) {
